@@ -1,0 +1,5 @@
+-app/SoterService/SoterService.apk
+bin/iwpriv
+etc/firmware/hx_criteria.csv
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
